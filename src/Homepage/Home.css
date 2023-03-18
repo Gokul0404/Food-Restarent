@@ -435,6 +435,37 @@ margin-left: 1%;
            
                 height: 85vh;
             }
+
+            .rightContet {
+                padding-left: 0%;
+                      width: 120%;
+                  }
     
-    
+
+
+                  .rightContet h1 {
+                    width: 100%;
+                  font-size: 35px;
+                }
+        
+                .special-food-head h1 {
+                    font-size: 30px;
+                }
+        
+                .imgname h4 {
+                    font-size: 19px;
+                }
+                .homebtn {
+
+
+                    width: 50%;
+                    height: 3.5vh;
+                }
+
+
+                .rightContet .content-one {
+                    width: 55%;
+                }
+        
+
     }
