@@ -34,7 +34,9 @@ export default function Paneer() {
                         src={require("../panner/paneerimg/panner1.jpg")}
                         width="100%"
                         height="250vh"
-                      ></Image>
+                      ></Image><div className="btnn">
+                      <button class="button-hover-addcart">Add to Cart<i class="bi bi-cart3 ps-1"></i></button>
+                      </div>
                     </div>
                     <div
                       className="imgname"
@@ -64,7 +66,9 @@ export default function Paneer() {
                         src={require("../panner/paneerimg/panner2.jpg")}
                         width="100%"
                         height="250vh"
-                      ></Image>
+                      ></Image><div className="btnn">
+                      <button class="button-hover-addcart">Add to Cart<i class="bi bi-cart3 ps-1"></i></button>
+                      </div>
                     </div>
                     <div
                       className="imgname"
@@ -93,7 +97,9 @@ export default function Paneer() {
                         src={require("../panner/paneerimg/panner3.jpg")}
                         width="100%"
                         height="250vh"
-                      ></Image>
+                      ></Image><div className="btnn">
+                      <button class="button-hover-addcart">Add to Cart<i class="bi bi-cart3 ps-1"></i></button>
+                      </div>
                     </div>
 
                     <div
@@ -125,7 +131,9 @@ export default function Paneer() {
                         src={require("../panner/paneerimg/panner4.jpg")}
                         width="100%"
                         height="250vh"
-                      ></Image>
+                      ></Image><div className="btnn">
+                      <button class="button-hover-addcart">Add to Cart<i class="bi bi-cart3 ps-1"></i></button>
+                      </div>
                     </div>
                     <div
                       className="imgname"
@@ -154,7 +162,9 @@ export default function Paneer() {
                         src={require("../panner/paneerimg/panner5.jpg")}
                         width="100%"
                         height="250vh"
-                      ></Image>
+                      ></Image><div className="btnn">
+                      <button class="button-hover-addcart">Add to Cart<i class="bi bi-cart3 ps-1"></i></button>
+                      </div>
                     </div>
                     <div
                       className="imgname"
@@ -182,7 +192,9 @@ export default function Paneer() {
                         src={require("../panner/paneerimg/panner6.jpg")}
                         width="100%"
                         height="250vh"
-                      ></Image>
+                      ></Image><div className="btnn">
+                      <button class="button-hover-addcart">Add to Cart<i class="bi bi-cart3 ps-1"></i></button>
+                      </div>
                     </div>
                     <div
                       className="imgname"

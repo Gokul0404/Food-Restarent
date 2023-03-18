@@ -34,7 +34,9 @@ export default function Veg() {
                         src={require("../veg/vegimg/vegi.jpg")}
                         width="100%"
                         height="250vh"
-                      ></Image>
+                      ></Image><div className="btnn">
+                      <button class="button-hover-addcart">Add to Cart<i class="bi bi-cart3 ps-1"></i></button>
+                      </div>
                     </div>
                     <div
                       className="imgname"
@@ -64,7 +66,9 @@ export default function Veg() {
                         src={require("../veg/vegimg/vegi2.avif")}
                         width="100%"
                         height="250vh"
-                      ></Image>
+                      ></Image><div className="btnn">
+                      <button class="button-hover-addcart">Add to Cart<i class="bi bi-cart3 ps-1"></i></button>
+                      </div>
                     </div>
                     <div
                       className="imgname"
@@ -93,7 +97,9 @@ export default function Veg() {
                         src={require("../veg/vegimg/vegi3.avif")}
                         width="100%"
                         height="250vh"
-                      ></Image>
+                      ></Image><div className="btnn">
+                      <button class="button-hover-addcart">Add to Cart<i class="bi bi-cart3 ps-1"></i></button>
+                      </div>
                     </div>
 
                     <div
@@ -130,7 +136,9 @@ export default function Veg() {
                         src={require("../veg/vegimg/vegi4.avif")}
                         width="100%"
                         height="250vh"
-                      ></Image>
+                      ></Image><div className="btnn">
+                      <button class="button-hover-addcart">Add to Cart<i class="bi bi-cart3 ps-1"></i></button>
+                      </div>
                     </div>
                     <div
                       className="imgname"
@@ -159,7 +167,9 @@ export default function Veg() {
                         src={require("../veg/vegimg/vegi5.avif")}
                         width="100%"
                         height="250vh"
-                      ></Image>
+                      ></Image><div className="btnn">
+                      <button class="button-hover-addcart">Add to Cart<i class="bi bi-cart3 ps-1"></i></button>
+                      </div>
                     </div>
                     <div
                       className="imgname"
@@ -187,7 +197,9 @@ export default function Veg() {
                         src={require("../veg/vegimg/vegi6.avif")}
                         width="100%"
                         height="250vh"
-                      ></Image>
+                      ></Image><div className="btnn">
+                      <button class="button-hover-addcart">Add to Cart<i class="bi bi-cart3 ps-1"></i></button>
+                      </div>
                     </div>
                     <div
                       className="imgname"

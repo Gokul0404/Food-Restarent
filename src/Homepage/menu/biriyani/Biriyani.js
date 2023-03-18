@@ -38,7 +38,9 @@ export default function Biriyani() {
                       src={require("../biriyani/biriyaniimg/b1.jpg")}
                       width="100%"
                       height="250vh"
-                    ></Image>
+                    ></Image><div className="btnn">
+                    <button class="button-hover-addcart">Add to Cart<i class="bi bi-cart3 ps-1"></i></button>
+                    </div>
                   </div>
                   <div
                     className="imgname"
@@ -68,7 +70,9 @@ export default function Biriyani() {
                       src={require("../biriyani/biriyaniimg/b2.jpg")}
                       width="100%"
                       height="250vh"
-                    ></Image>
+                    ></Image><div className="btnn">
+                    <button class="button-hover-addcart">Add to Cart<i class="bi bi-cart3 ps-1"></i></button>
+                    </div>
                   </div>
                   <div
                     className="imgname"
@@ -97,7 +101,9 @@ export default function Biriyani() {
                       src={require("../biriyani/biriyaniimg/b3.jpg")}
                       width="100%"
                       height="250vh"
-                    ></Image>
+                    ></Image><div className="btnn">
+                    <button class="button-hover-addcart">Add to Cart<i class="bi bi-cart3 ps-1"></i></button>
+                    </div>
                   </div>
 
                   <div
@@ -129,7 +135,9 @@ export default function Biriyani() {
                       src={require("../biriyani/biriyaniimg/b4.jpg")}
                       width="100%"
                       height="250vh"
-                    ></Image>
+                    ></Image><div className="btnn">
+                    <button class="button-hover-addcart">Add to Cart<i class="bi bi-cart3 ps-1"></i></button>
+                    </div>
                   </div>
                   <div
                     className="imgname"
@@ -158,7 +166,9 @@ export default function Biriyani() {
                       src={require("../biriyani/biriyaniimg/b5.jpg")}
                       width="100%"
                       height="250vh"
-                    ></Image>
+                    ></Image><div className="btnn">
+                    <button class="button-hover-addcart">Add to Cart<i class="bi bi-cart3 ps-1"></i></button>
+                    </div>
                   </div>
                   <div
                     className="imgname"
@@ -186,7 +196,9 @@ export default function Biriyani() {
                       src={require("../biriyani/biriyaniimg/b6.webp")}
                       width="100%"
                       height="250vh"
-                    ></Image>
+                    ></Image><div className="btnn">
+                    <button class="button-hover-addcart">Add to Cart<i class="bi bi-cart3 ps-1"></i></button>
+                    </div>
                   </div>
                   <div
                     className="imgname"

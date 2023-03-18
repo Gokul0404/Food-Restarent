@@ -34,7 +34,9 @@ export default function Chiken() {
                         src={require("../chiken/chikenimg/chiken1.avif")}
                         width="100%"
                         height="250vh"
-                      ></Image>
+                      ></Image><div className="btnn">
+                      <button class="button-hover-addcart">Add to Cart<i class="bi bi-cart3 ps-1"></i></button>
+                      </div>
                     </div>
                     <div
                       className="imgname"
@@ -64,7 +66,9 @@ export default function Chiken() {
                         src={require("../chiken/chikenimg/chiken2.jpg")}
                         width="100%"
                         height="250vh"
-                      ></Image>
+                      ></Image><div className="btnn">
+                      <button class="button-hover-addcart">Add to Cart<i class="bi bi-cart3 ps-1"></i></button>
+                      </div>
                     </div>
                     <div
                       className="imgname"
@@ -93,7 +97,9 @@ export default function Chiken() {
                         src={require("../chiken/chikenimg/chiken3.avif")}
                         width="100%"
                         height="250vh"
-                      ></Image>
+                      ></Image><div className="btnn">
+                      <button class="button-hover-addcart">Add to Cart<i class="bi bi-cart3 ps-1"></i></button>
+                      </div>
                     </div>
 
                     <div
@@ -125,7 +131,9 @@ export default function Chiken() {
                         src={require("../chiken/chikenimg/chiken4.avif")}
                         width="100%"
                         height="250vh"
-                      ></Image>
+                      ></Image><div className="btnn">
+                      <button class="button-hover-addcart">Add to Cart<i class="bi bi-cart3 ps-1"></i></button>
+                      </div>
                     </div>
                     <div
                       className="imgname"
@@ -154,7 +162,9 @@ export default function Chiken() {
                         src={require("../chiken/chikenimg/chiken5.avif")}
                         width="100%"
                         height="250vh"
-                      ></Image>
+                      ></Image><div className="btnn">
+                      <button class="button-hover-addcart">Add to Cart<i class="bi bi-cart3 ps-1"></i></button>
+                      </div>
                     </div>
                     <div
                       className="imgname"
@@ -182,7 +192,9 @@ export default function Chiken() {
                         src={require("../chiken/chikenimg/chiken6.avif")}
                         width="100%"
                         height="250vh"
-                      ></Image>
+                      ></Image><div className="btnn">
+                      <button class="button-hover-addcart">Add to Cart<i class="bi bi-cart3 ps-1"></i></button>
+                      </div>
                     </div>
                     <div
                       className="imgname"

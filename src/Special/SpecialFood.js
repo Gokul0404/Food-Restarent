@@ -1,6 +1,6 @@
 import React from "react";
 import { Col, Container, Image, Row } from "react-bootstrap";
-import { CurrencyDollar } from "react-bootstrap-icons";
+import { Cart, Cart4, CurrencyDollar } from "react-bootstrap-icons";
 import "../Special/SpecialFood.css";
 
 export default function SpecialFood() {
@@ -16,12 +16,15 @@ export default function SpecialFood() {
           <Row className="spl-row">
             <Col md={4}>
               <div className="imgoutline">
+              
                 <Image
                   className="speacialimg1"
                   src={require("../Special/imgspeacial/food1.jpg")}
                   width="100%"
                   height="250vh"
                 ></Image>
+                
+               
               </div>
               <div className="imgname">
                 <h4>Dry-Aged Rump Steak</h4>
