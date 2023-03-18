@@ -436,3 +436,15 @@ margin-top: 10%;
     }
 
 }
+
+
+
+@media (min-width:379px) and (max-width:420px) {
+
+    .block-two{
+       
+            height: 65vh;
+        }
+
+
+}
