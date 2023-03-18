@@ -239,8 +239,15 @@ height: 300vh;
 
         .About-page{
            
-            height: 220vh;
+            height: 250vh;
             }
-    
+    .about-start{
+
+
+        height: 180vh;
+    }
+
+           
+                
     
     }

@@ -74,3 +74,18 @@ background-color: #e71717;
 
 
 }
+
+
+@media (min-width:379px) and (max-width:420px) {
+
+.contact-form{
+
+    width: 88%;
+}
+
+.submit-button-wrapper {
+    width: 208%;
+}
+
+
+}
