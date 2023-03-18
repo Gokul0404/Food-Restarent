@@ -1,7 +1,7 @@
 
 
 @import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Rancho&family=Titan+One&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Poppins:wght@900&family=Rancho&family=Titan+One&display=swap');
 
 .menu-haed{
     background: rgb(255,210,206);
@@ -41,7 +41,7 @@ padding: 1%;
 
     font-weight: 750;
     font-size: 70px;
-  
+    font-family: 'Poppins', sans-serif;
 
 }
 
@@ -100,7 +100,8 @@ line-height: 5px;
     }
     .menu-div .h1{
 
-        font-size: 25px;
+        font-size: 30px;
+     
     }
     .menu-div p{
 
