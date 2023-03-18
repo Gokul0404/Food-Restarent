@@ -21,3 +21,13 @@
 
 
 }
+
+@media (min-width:379px) and (max-width:400px) {
+
+    .paneer-food{
+        margin-top: 30%;
+            height: 140vh;
+        }
+
+
+}

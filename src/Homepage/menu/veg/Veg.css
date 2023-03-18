@@ -27,5 +27,15 @@
             height: 160vh;
         }
 
+}
+
+
+@media (min-width:379px) and (max-width:400px) {
+
+    .veg-food{
+        margin-top: 30%;
+            height: 140vh;
+        }
+
 
 }

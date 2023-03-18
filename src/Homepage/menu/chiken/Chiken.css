@@ -29,3 +29,14 @@
 
 
 }
+
+
+@media (min-width:379px) and (max-width:400px) {
+
+    .chiken-head{
+        margin-top: 30%;
+            height: 140vh;
+        }
+
+
+}
