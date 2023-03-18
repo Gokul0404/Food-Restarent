@@ -69,11 +69,11 @@ margin-top: 30%;
     height: 140vh;
 }
 }
-@media (min-width:350px) and (max-width:400px) {
+@media (min-width:400px) and (max-width:450px) {
 
     .biriyani{
         margin-top: 30%;
-            height: 180vh;
+            height: 200vh;
         }
 
 
