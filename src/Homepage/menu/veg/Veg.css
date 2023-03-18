@@ -1,0 +1,13 @@
+.veg-food{
+
+    margin-top: 10%;
+    height: 115vh;
+}
+
+@media (min-width:319px) and (max-width:750px){
+.veg-food{
+
+    
+    height: 140vh;    
+
+}}

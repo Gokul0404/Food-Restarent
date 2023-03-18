@@ -1,0 +1,65 @@
+.biriyani-head{
+
+    /* margin-top: 5%; */
+
+background-color: white;
+height:115vh;
+
+
+  
+}
+
+
+
+.start-head{
+
+
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 5%;
+}
+
+.start-head h2{
+
+    font-weight: 500;
+    font-size: 60px;
+
+    color: #f54749;
+}
+
+.start-head p{
+
+
+    font-weight: 750;
+    letter-spacing: 5px;
+}
+
+.imgoutline{
+
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bas{
+/* font-size: 50px; */
+    color: black;
+    align-items: center;
+    transition: 0.5s;
+
+}
+@media (min-width:319px) and (max-width:750px) {
+
+.biriyani{
+margin-top: 30%;
+    height: 140vh;
+}
+}
+
+
+
+/* cards css code.................... */
+

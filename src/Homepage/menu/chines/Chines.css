@@ -1,0 +1,10 @@
+.chines{
+
+    margin-top: 10%;
+    height:115vh;
+}
+@media (min-width:319px) and (max-width:750px) {
+.chines{
+    height: 140vh; 
+
+}}

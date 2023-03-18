@@ -1,0 +1,302 @@
+.home-page{
+
+
+    background: rgb(255,210,206);
+    background: linear-gradient(175deg, rgba(255,210,206,1) 0%, rgba(255,255,255,1) 75%);
+
+height: 107vh;
+width: 100vw;
+
+padding-top:9%;
+position: relative;
+}
+
+
+.Container{
+
+
+
+width: 100%;
+
+
+}
+
+/* .Container .homecoloum{
+    margin-left: -10%;
+} */
+
+
+.rightContet{
+
+
+    margin: 0;
+    margin-left: -18%;
+    margin-top: 7%;
+}
+
+.rightContet .content-one{
+
+font-weight: 500;
+width: 20%;
+height: 4vh;
+background-color: rgb(252, 215, 212);
+color: #f54749;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+
+.content-two{
+
+margin-top: 4%;
+font-weight: 500;
+
+}
+.rightContet h1{
+
+
+    font-size: 80px;
+
+    font-weight: 700;
+}
+
+
+.rightContet h1 span{
+
+
+    color: #f54749;
+}
+
+.homebtn{
+
+
+    background-color: #f54749;
+    border: #f54749;
+    color: white;
+    height: 4.5vh;
+    width: 15.5%;
+    border-radius: 25px;
+    font-weight: 600;
+}
+.homebtn:hover{
+
+    background-color: #e71717;
+}
+
+.homeimg{
+
+   
+ width: 100%;
+   margin-left: -10%;
+}
+
+
+
+
+@media (min-width:319px) and (max-width:750px) {
+body{
+
+    overflow-x: hidden;
+}
+
+    .row>*{
+
+
+        width: 61%;
+    }
+    
+    .home-page{
+
+height: 77vh;
+        width: 100%;
+    }
+    .rightContet{
+
+        justify-content: center;
+        align-items: center;
+        margin-left: 10%;
+        width: 100%;
+    }
+    .rightContet h1{
+width: 100%;
+        font-size: 25px;
+    }
+
+    .rightContet .content-one{
+margin: 0;
+        width: 75%;
+        
+    }
+
+    .homebtn{
+
+        width: 62.5%;
+    }
+
+    .home-all-contents{
+        width: 100%;
+        margin-top: 20%;
+    }
+
+.homeimage-parent{
+    width: 50%;
+
+
+}
+    .homeimg{
+margin-top: 10%;
+        margin-left: 13%;
+        width: 180%; 
+        
+    }
+
+ 
+        
+    }
+    @media (min-width:488px) and (max-width:1000px) {
+
+        .home-page{
+
+            height: 87vh;
+                    width: 100%;
+                }
+
+        .rightContet h1 {
+            width: 100%;
+            font-size: 43px;
+        }
+
+        .special-food-head h1 {
+            font-size: 30px;
+        }
+
+        .imgname h4 {
+            font-size: 19px;
+        }
+    
+    
+    }
+
+    @media (min-width:738px) and (max-width:1000px) {
+
+
+        .homeimg{
+
+            margin-top: 10%;
+            width: 120%;
+        }
+        .rightContet {
+        padding-left:20%;
+            margin-right: 0;
+        }
+        .rightContet .content-one {
+
+            width: 26%;
+        }
+
+        .homebtn {
+
+
+            width: 29%;
+        }
+
+   
+
+
+    }
+
+
+    @media (min-width:768px) and (max-width:1010px) {
+
+
+        .rightContet {
+            padding-left:40%;
+                        margin-right: 0;
+                    }
+                    .rightContet .content-one {
+            
+                        width: 35%;
+                    }
+            
+
+                    .homebtn {
+
+
+                        width: 42%;
+                    }
+
+                    .col-md-6{
+                        width: 80%;
+                    }
+
+.homeimage-parent {
+display: flex;
+justify-content: center;
+    align-items: center;
+}
+
+.homeimg{
+
+margin-left: 1%;
+    width: 90%;
+    height: 30vh;
+}
+    }
+
+
+    @media (min-width:991px) and (max-width:1200px) {
+
+        .homeimg{
+
+
+            width: 100%;
+            margin-left: 60%;
+        }
+    }
+
+
+    @media (min-width:999px) and (max-width:1600px) {
+
+        .home-page{
+
+            height: 50vh;
+        }
+        .rightContet {
+            padding-left:20%;
+                        margin-right: 0;
+                    }
+        .homeimg{
+
+            margin-left: 1%;
+                width: 90%;
+                height: 30vh;
+                margin-top: 10%;
+            }
+            .rightContet .content-one {
+            
+                width: 40%;
+            }
+            .col-md-6{
+                width: 40%;
+            }
+            .rightContet h1 {
+                width: 100%;
+                font-size: 43px;
+            }
+    
+
+
+    }
+
+
+    @media (min-width:1010px) and (max-width:1600px) {
+
+        .homebtn {
+
+            width: 50%;
+        }
+
+
+    }

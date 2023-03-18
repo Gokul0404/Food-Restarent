@@ -1,0 +1,126 @@
+
+
+.menu-haed{
+    background: rgb(255,210,206);
+    background: linear-gradient(175deg, rgba(255,210,206,1) 0%, rgba(255,255,255,1) 75%);
+height: 105vh;
+padding: 1%;
+
+
+
+}
+
+.img-round-shap{
+
+    margin-top: -10%;
+    margin-left: 5%;
+  
+}
+.menu-head-point{
+    margin-top: 15%;   
+    position: relative; 
+}
+
+.menu-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+    line-height: 80px;
+    margin-left: 55%;
+    position: absolute;
+ 
+}
+
+.menu-div h1{
+
+
+    font-weight: 750;
+    font-size: 70px;
+}
+
+.menu-div p{
+
+    font-weight: 500;
+
+    letter-spacing: 5px;
+}
+
+
+.menu-col{
+
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu-images{
+
+margin-left: 2%;
+border: 2px solid black;
+
+}
+
+
+
+@media (min-width:319px) and (max-width:750px) {
+
+
+    .menu-haed{
+
+height: 25vh;
+
+    }
+.menu-head-point{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+    .menu-div{
+
+line-height: 5px;
+        margin: 0;
+        margin-top: 60%;
+    }
+    .menu-div h1{
+
+        font-size: 25px;
+    }
+    .menu-div p{
+
+    letter-spacing: 2px;
+        font-size: 12px;    
+    }
+.img-round-shap{
+
+    display: none;
+}
+
+
+
+
+
+
+
+.paneer-food{
+    height: 140vh; 
+
+}
+
+
+.start-head .h1{
+
+font-size: 30px;
+}
+
+.start-head p{
+    font-size: 12px;
+    letter-spacing: 2px;
+
+}
+
+}

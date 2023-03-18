@@ -1,0 +1,233 @@
+.carasol{
+
+
+    background: rgb(255,210,206);
+background: linear-gradient(351deg, rgba(255,210,206,0.9472163865546218) 0%, rgba(255,255,255,1) 75%);
+    height: 98vh;
+}
+
+.cubody{
+
+width: 40%;
+
+height: 45vh;
+margin-top: 15%;
+outline: 2px solid black;
+
+outline-offset: 5px solid black;
+}
+
+
+.carousel-inner{
+    height: 45vh;
+}
+.carousel-item{
+
+
+    height: 45vh;
+}
+
+
+.imgbody{
+
+    height: 200vh;
+}
+.cuspan{
+
+position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: -20%;
+}
+.cuheadcontent{
+
+
+   
+
+  font-weight: 750;
+  
+ 
+}
+
+
+.cupara{
+width: 60%;
+text-align: center;
+    
+    margin-top: -3.5%;
+    font-weight: 500;
+}
+
+
+@media (min-width:319px) and (max-width:750px) {
+.carasol{
+
+
+    height: 80vh;
+    margin: 0;
+  
+}
+
+.cuspan{
+    position: absolute;
+    margin-top: -50%;
+  
+
+}
+
+.cuspan p{
+margin-top: -20%;
+font-size: 15px;
+
+}
+
+.cubody{
+
+width: 90%;
+/* height: 27.4vh; */
+height: 20.4vh;
+
+    margin-top: 138%;
+}
+
+.imgbody{
+    /* height: 110vh; */
+    height: 81.8vh;
+}
+
+.carousel-item{
+    /* height: 29vh; */
+    height: 20vh;
+}
+
+}
+
+
+@media (min-width:378px) and (max-width:800px) {
+
+    .carasol{
+
+
+        height: 80vh;
+        margin: 0;
+      
+    }
+    
+    .cuspan{
+        position: absolute;
+        margin-top: -20%;
+      
+    
+    }
+    .cuspan p{
+        margin-top: -10%;
+        font-size: 15px;
+        
+        }
+
+
+        .cubody{
+
+            width: 90%;
+            /* height: 27.4vh; */
+            height: 20.4vh;
+            
+                margin-top: 85%;
+            }
+            
+
+}
+
+
+@media (min-width:382px) and (max-width:800px) {
+
+    .cuspan{
+        position: absolute;
+        margin-top: -50%;
+      
+    
+    }
+
+}
+
+@media (min-width:490px) and (max-width:800px) {
+
+    .cuspan{
+        position: absolute;
+        margin-top: -20%;
+      
+    
+    }
+    
+}
+
+@media (min-width:755px) and (max-width:1000px) {
+
+    .carasol {
+        height: 110vh;
+    }
+
+    .cubody  {
+        height: 45vh;
+    }
+   
+}
+
+@media (min-width:800px) and (max-width:1000px) {
+
+    
+ 
+    .cubody  {
+       margin-top: 80%;
+       width: 86%;
+    }
+   
+    }
+
+    @media (min-width:961px) and (max-width:1000px) {
+        .carasol {
+            height: 126vh;
+        }}
+    
+
+    
+    @media (min-width:984px) and (max-width:1000px) {
+        .carasol {
+            height: 126vh;
+        }}
+    
+
+
+    @media (min-width:1000px) and (max-width:1600px) {
+     
+
+
+        .cubody  {
+            margin-top: 50%;
+            width: 86%;
+         }
+
+
+
+    }
+
+    @media (min-width:1185px) and (max-width:1600px) {
+
+.carasol{
+    height: 120vh;
+}
+
+    }
+
+
+    @media (min-width:1500px) and (max-width:2000px) {
+    
+    
+        .carasol{
+            height: 120vh;
+        }
+    
+    }
+
