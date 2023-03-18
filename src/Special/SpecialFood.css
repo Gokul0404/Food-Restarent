@@ -91,7 +91,7 @@ margin-top: 5%;
 
 
 
-@media (min-width:319px) and (max-width:750px) {
+@media (min-width:250px) and (max-width:750px) {
 body{
 
     overflow-x: hidden;
@@ -200,3 +200,14 @@ height: 70vh;
 
 
     }}
+
+
+
+    @media (min-width:737px) and (max-width:750px) {
+
+        .special-food {
+            height: 150vh;
+        }
+
+
+    }

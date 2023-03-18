@@ -3,8 +3,25 @@
     margin-top: 10%;
     height:115vh;
 }
-@media (min-width:319px) and (max-width:750px) {
+@media (min-width:250px) and (max-width:750px) {
 .chines{
     height: 140vh; 
 
 }}
+
+@media (min-width:749px) and (max-width:768px) {
+    .chines{
+       
+            height: 250vh;
+        }
+
+
+}
+@media (min-width:450px) and (max-width:748px) {
+    .chines{
+       
+            height: 160vh;
+        }
+
+
+}

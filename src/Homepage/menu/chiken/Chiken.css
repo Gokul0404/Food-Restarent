@@ -6,9 +6,26 @@
 
 
 
-@media (min-width:319px) and (max-width:750px) {
+@media (min-width:250px) and (max-width:750px) {
 .chiken-head {
     margin-top: 30%;
     height: 140vh;
 }
+}
+
+@media (min-width:749px) and (max-width:768px) {
+    .chiken-head{
+       
+            height: 250vh;
+        }
+
+
+}
+@media (min-width:450px) and (max-width:748px) {
+    .chiken-head{
+       
+            height: 160vh;
+        }
+
+
 }

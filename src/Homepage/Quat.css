@@ -418,3 +418,21 @@ margin-top: 10%;
         }
 
 }
+
+@media (min-width:737px) and (max-width:750px) {
+
+
+    .block-two-image {
+    
+       
+       width: 80%;
+
+        margin-left: 60%;     
+     }
+
+     .block-two {
+        margin: 0;
+        height: 54vh;
+    }
+
+}

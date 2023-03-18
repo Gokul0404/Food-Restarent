@@ -3,3 +3,21 @@
 
     margin-top: 10%;
 }
+
+
+@media (min-width:749px) and (max-width:768px) {
+    .paneer-food{
+       
+            height: 250vh;
+        }
+
+
+}
+@media (min-width:450px) and (max-width:748px) {
+    .paneer-food{
+       
+            height: 160vh;
+        }
+
+
+}

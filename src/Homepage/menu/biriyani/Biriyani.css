@@ -51,12 +51,44 @@ height:115vh;
     transition: 0.5s;
 
 }
-@media (min-width:319px) and (max-width:750px) {
+@media (min-width:250px) and (max-width:600px) {
+    .start-head h2{
 
+
+        font-size: 22px;
+    }
+
+    .start-head p{
+
+        font-size: 12px;
+        letter-spacing: 2px;
+
+    }
 .biriyani{
 margin-top: 30%;
     height: 140vh;
 }
+}
+
+
+@media (min-width:435px) and (max-width:750px) {
+
+    .biriyani{
+        margin-top: 30%;
+            height: 160vh;
+        }
+
+
+}
+
+
+@media (min-width:749px) and (max-width:768px) {
+    .biriyani{
+       
+            height: 250vh;
+        }
+
+
 }
 
 
