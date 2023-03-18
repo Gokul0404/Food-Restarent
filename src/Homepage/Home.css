@@ -427,3 +427,14 @@ margin-left: 1%;
 
 
     }
+
+
+    @media (min-width:379px) and (max-width:420px) {
+
+        .home-page{
+           
+                height: 104vh;
+            }
+    
+    
+    }
