@@ -51,7 +51,7 @@ height:115vh;
     transition: 0.5s;
 
 }
-@media (min-width:250px) and (max-width:600px) {
+@media (min-width:200px) and (max-width:600px) {
     .start-head h2{
 
 
