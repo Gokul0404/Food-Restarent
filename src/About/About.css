@@ -244,7 +244,13 @@ height: 300vh;
     .about-start{
 
 
-        height: 200vh;
+        height: 190vh;
+    }
+
+    .col-para-two p{
+
+
+        line-height: 30px;
     }
 
            
