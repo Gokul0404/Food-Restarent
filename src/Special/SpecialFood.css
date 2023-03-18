@@ -265,3 +265,15 @@ opacity: 0.5;
     height: 170vh;
   }
 }
+
+
+@media (min-width:379px) and (max-width:400px) {
+
+  
+
+  .speacialimg1 {
+    height: 13.5vh;
+  }
+
+
+}
