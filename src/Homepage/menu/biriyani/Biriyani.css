@@ -4,7 +4,7 @@
 
 background-color: white;
 height:115vh;
-overflow: scroll;
+
 
 
   
@@ -28,6 +28,9 @@ overflow: scroll;
     font-size: 60px;
 
     color: #f54749;
+    font-family: 'Fredoka One', cursive;
+    font-family: 'Rancho', cursive;
+    font-family: 'Titan One', cursive;
 }
 
 .start-head p{

@@ -1,5 +1,8 @@
 
 
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Rancho&family=Titan+One&display=swap');
+
+
 .menu-haed{
     background: rgb(255,210,206);
     background: linear-gradient(175deg, rgba(255,210,206,1) 0%, rgba(255,255,255,1) 75%);
@@ -33,13 +36,22 @@ padding: 1%;
  
 }
 
-.menu-div h1{
+.menu-div .h1{
 
 
     font-weight: 750;
     font-size: 70px;
+  
+
 }
 
+
+.menu-div .h1 span{
+
+color: #f54749;;
+
+
+}
 .menu-div p{
 
     font-weight: 500;

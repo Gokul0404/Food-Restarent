@@ -107,7 +107,7 @@ export default function Footer() {
                   </div>
                   <div class="subscribe-form">
                     <form>
-                      <input type="text" placeholder="Email Address" />
+                      <input type="text" placeholder="Enter Email" />
                       <button className="fw-bold">Submit</button>
                     </form>
                   </div>

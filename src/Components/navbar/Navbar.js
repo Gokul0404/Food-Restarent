@@ -9,11 +9,9 @@ import NavDropdown from "react-bootstrap/NavDropdown";
 import { useNavigate } from "react-router-dom";
 
 const NavbarMain = () => {
-
-
-  
   const [colorChange, setColorchange] = useState(false);
   const navigate = useNavigate();
+
   const changeNavbarColor = () => {
     if (window.scrollY >= 80) {
       setColorchange(true);
@@ -23,22 +21,33 @@ const NavbarMain = () => {
   };
   window.addEventListener("scroll", changeNavbarColor);
 
+  const [color, setColor] = useState(false);
+
   return (
     <div
-      className={colorChange ? "navbar1 fixed-top" : "mainheader fixed-top"}
+      className={
+        colorChange
+          ? "navbar1 fixed-top"
+          : color != ""
+          ? "mainheader fixed-top navbag"
+          : "mainheader fixed-top"
+      }
       id="headscroll"
     >
       <Navbar bg="" expand="sm" className="main-body ">
         <Container fluid>
-          <Navbar.Brand><img src="./dkkkh.png" style={{width:"120px",height:"50px"}}/></Navbar.Brand>
-          <Navbar.Toggle />
-          <Navbar.Collapse>
+          <Navbar.Brand>
+            <img src="./dkkkh.png" style={{ width: "120px", height: "50px" }} />
+          </Navbar.Brand>
+          <Navbar.Toggle onClick={() => setColor(!color)} />
+          <Navbar.Collapse className="color">
             <Nav className=" me-auto my-2 my-lg-0 contents  ">
               <Nav.Link
                 className="lines"
                 onClick={() => {
                   navigate("/");
-                }} href="#"
+                }}
+                href="#"
               >
                 Home
               </Nav.Link>
@@ -50,7 +59,7 @@ const NavbarMain = () => {
               >
                 About
               </Nav.Link>
-              <NavDropdown className="lines " title="Menu"  >
+              <NavDropdown className="lines" title="Menu">
                 <div>
                   <NavDropdown.Item
                     className="drop"

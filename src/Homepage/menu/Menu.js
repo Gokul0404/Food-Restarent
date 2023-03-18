@@ -20,7 +20,7 @@ export default function Menu() {
 <div className='menu-head-point'>
 <span className='menu-div'>
 
-<h1>Food At First Sight</h1>
+<h2 className='h1'>Food At First <span>Sight</span></h2>
 <p> OUR  RESTAURANT MENU</p>
 </span>
 </div>

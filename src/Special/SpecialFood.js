@@ -16,12 +16,11 @@ export default function SpecialFood() {
           <Row className="spl-row">
             <Col md={4}>
               <div className="imgoutline">
-               
                 <Image
                   className="speacialimg1"
                   src={require("../Special/imgspeacial/food1.jpg")}
                   width="100%"
-                  height='250vh'
+                  height="250vh"
                 ></Image>
               </div>
               <div className="imgname">
@@ -36,12 +35,12 @@ export default function SpecialFood() {
 
             <Col md={4}>
               {" "}
-              <div className="imgoutline">
+              <div className="imgoutline   ">
                 <Image
                   className="speacialimg1"
                   src={require("../Special/imgspeacial/food2.jpg")}
                   width="100%"
-                  height='250vh'
+                  height="250vh"
                 ></Image>
               </div>
               <div className="imgname">
@@ -60,7 +59,7 @@ export default function SpecialFood() {
                   className="speacialimg1"
                   src={require("../Special/imgspeacial/food3.jpg")}
                   width="100%"
-                  height='250vh'
+                  height="250vh"
                 ></Image>
               </div>
 
@@ -82,7 +81,7 @@ export default function SpecialFood() {
                   className="speacialimg1"
                   src={require("../Special/imgspeacial/food4.jpg")}
                   width="100%"
-                  height='250vh'
+                  height="250vh"
                 ></Image>
               </div>
               <div className="imgname">
@@ -101,7 +100,7 @@ export default function SpecialFood() {
                   className="speacialimg1"
                   src={require("../Special/imgspeacial/food5.jpg")}
                   width="100%"
-                  height='250vh'
+                  height="250vh"
                 ></Image>
               </div>
               <div className="imgname">
@@ -119,7 +118,7 @@ export default function SpecialFood() {
                   className="speacialimg1"
                   src={require("../Special/imgspeacial/food6.jpg")}
                   width="100%"
-                  height='250vh'
+                  height="250vh"
                 ></Image>
               </div>
               <div className="imgname">
