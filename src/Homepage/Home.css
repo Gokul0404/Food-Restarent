@@ -300,3 +300,15 @@ margin-left: 1%;
 
 
     }
+
+    @media (min-width:1900px) {
+
+
+        .homeimg{
+
+
+            width: 140%;
+      
+        }
+
+    }
